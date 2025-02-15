@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **BUCK-TERMINAL**
 
 - 💬 Ask me about **Web3 and Blockchain.**
 
