@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/yath_tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yath_tripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/yatharth.tripathiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yatharth.tripathiii" height="30" width="40" /></a>
+  <a href="mailto:tripathiyatharth257@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
